@@ -1,3 +1,0 @@
-threads = 100
-min_reply = 2
-resolves_per_reflector = 20

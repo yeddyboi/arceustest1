@@ -7,4 +7,6 @@ apparently it was stolen/leaked a long time ago. i downloaded the files back the
 
 there seems to already be some instructions in the txt files in some of the folders too
 
+this isn't mine, idk whose it is
+
 have fun ig

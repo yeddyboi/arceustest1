@@ -1,5 +1,5 @@
 # Arceus
-i think this is a botnet ...
+think this was supposed to be a botnet
 
 but i have no idea how it works 
 
